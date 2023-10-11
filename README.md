@@ -24,11 +24,12 @@ To get started with this project, follow these steps:
    git clone https://github.com/your-username/react-todo-app.git
 
   **Navigate to the project directory**:
-  cd react-todo-app
+     cd react-todo-app
   **Install the project dependencies:**
-  npm install
+     npm install
   **Start the development server:**
-  npm start
+     npm start
+   
   The app should now be running at http://localhost:3000. You can open it in your web browser.
   
 ## Basic Functionalities
