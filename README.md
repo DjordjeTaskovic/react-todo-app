@@ -20,14 +20,10 @@ This is a simple to-do application built using React.js. It serves as a beginner
 
 To get started with this project, follow these steps:
 
-1. **Clone the repository** to your local machine:
-   git clone https://github.com/your-username/react-todo-app.git
-  **Navigate to the project directory**:
-   cd react-todo-app
-  **Install the project dependencies:**
-   npm install
-  **Start the development server:**
-   npm start
+1. **Clone the repository** to your local machine: git clone https://github.com/DjordjeTaskovic/react-todo-app.git 
+2. **Navigate to the project directory**: cd react-todo-app
+3. **Install the project dependencies:** npm install
+4. **Start the development server:** npm start
    
   The app should now be running at http://localhost:3000. You can open it in your web browser.
   
