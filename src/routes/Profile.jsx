@@ -10,8 +10,7 @@ const Profile = () => {
       <h1>profile</h1>
       </Header>
       <div className={styles.profile}>
-        <p>{user.email}</p>
-        <h2>Hello, {user.username}</h2>
+        <h2>Hello, {user}</h2>
       </div>
     </div>
   );
